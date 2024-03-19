@@ -4,7 +4,7 @@ programa
   {
   inteiro vetor [5], i
   para(inteiro i = 0; i < 5; i++) {
- escreva("digite o índice", i, ": ")
+ escreva("digite o Ã­ndice", i, ": ")
  leia (vetor{i})
     
   }
