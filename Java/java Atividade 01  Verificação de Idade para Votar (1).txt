@@ -1,0 +1,15 @@
+public class Main {
+  public static void main(String[] args) {
+  
+    int idade = 19;
+    
+    if (idade >= 18) {
+    System.out.println("voce ja pode votar!");
+    }
+    
+    else {
+    System.out.println("voce ainda nao pode votar."); }
+    }
+  }
+
+
